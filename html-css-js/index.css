@@ -1,0 +1,19 @@
+.group {
+    margin: 48px;
+    padding: 32px;
+    background: #ededed;
+}
+
+.group:hover {
+    box-shadow: #0f0f0f;
+}
+
+#title {
+    font-weight: bold;
+}
+
+button {
+    background: dodgerblue;
+    color: #ededed;
+    padding: 8px;
+}
