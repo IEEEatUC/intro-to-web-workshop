@@ -4,10 +4,6 @@
     background: #ededed;
 }
 
-.group:hover {
-    box-shadow: #0f0f0f;
-}
-
 #title {
     font-weight: bold;
 }
