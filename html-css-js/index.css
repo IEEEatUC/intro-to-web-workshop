@@ -12,8 +12,12 @@
     font-weight: bold;
 }
 
+.change-style {
+    color: #1e90ff;
+}
+
 button {
-    background: dodgerblue;
+    background: #1e90ff;
     color: #ededed;
     padding: 8px;
 }
