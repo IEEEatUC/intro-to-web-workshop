@@ -1,0 +1,19 @@
+.group {
+    margin: 48px;
+    padding: 32px;
+    background: #ededed;
+}
+
+#title {
+    font-weight: bold;
+}
+
+.change-style {
+    color: #1e90ff;
+}
+
+button {
+    background: #1e90ff;
+    color: #ededed;
+    padding: 8px;
+}

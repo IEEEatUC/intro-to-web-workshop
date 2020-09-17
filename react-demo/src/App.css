@@ -1,0 +1,15 @@
+.app-group {
+    margin: 48px;
+    padding: 32px;
+    background: #ededed;
+}
+
+#app-title {
+    font-weight: bold;
+}
+
+.app-button {
+    background: #1e90ff;
+    color: #ededed;
+    padding: 8px;
+}
